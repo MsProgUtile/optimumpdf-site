@@ -12,3 +12,10 @@ h2{margin-top:2rem;font-size:1.25rem}h3{font-size:1.05rem}
 .lang{float:right;font-size:.9rem}a{color:var(--accent)}
 footer{color:var(--muted);font-size:.9rem;padding:32px 16px;border-top:1px solid var(--line);margin-top:40px}
 table{border-collapse:collapse;width:100%}td,th{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+
+/* Tarifs (V2.50c) */
+table.prices{border-collapse:collapse;margin:12px 0 8px;width:100%;max-width:640px}
+table.prices th,table.prices td{border-bottom:1px solid #dde3ea;padding:7px 10px;text-align:left}
+table.prices th{background:#e8edf4;font-weight:600}
+table.prices td:nth-child(2),table.prices td:nth-child(3){white-space:nowrap}
+p.note{color:#526176;font-size:.92em}
