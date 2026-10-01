@@ -20,4 +20,4 @@ table.prices th{background:#e8edf4;font-weight:600}
 table.prices td:nth-child(2),table.prices td:nth-child(3){white-space:nowrap}
 p.note{color:#526176;font-size:.92em}
 /* Ancre #en : la section anglaise occupe au moins un écran, sinon le lien « English » ne peut pas l'amener en haut de page. */
-section.en{min-height:100vh;scroll-margin-top:12px;padding-top:4px;border-top:1px solid #dde3ea;margin-top:24px}
+section.en{scroll-margin-top:12px;padding-top:4px;border-top:1px solid #dde3ea;margin-top:24px}
